@@ -9,4 +9,4 @@ An Android Hangman game application where users guess letters of a hidden word.
 
 
 
-[![Watch the video]](https://youtu.be/Vcdw9AlgiM8)
+[[Watch the video]](https://youtu.be/Vcdw9AlgiM8)
