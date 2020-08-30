@@ -1,4 +1,4 @@
-# Hangman
+# Hangman App
 An Android Hangman game application where users guess letters of a hidden word. 
 ## What I learned
 -	Designed user interface within XML file using TableLayout and Button
